@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\TestNetCoreConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\MixedReality-WebRTC-playground\\TestNetCoreConsole.csproj",
       "projectName": "TestNetCoreConsole",
-      "projectPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\TestNetCoreConsole.csproj",
+      "projectPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\MixedReality-WebRTC-playground\\TestNetCoreConsole.csproj",
       "packagesPath": "C:\\Users\\Panos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\obj\\",
+      "outputPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\MixedReality-WebRTC-playground\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Panos\\AppData\\Roaming\\NuGet\\NuGet.Config",

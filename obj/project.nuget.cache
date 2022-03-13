@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHQD03pjMW72RtkfejzJ0qYxnC313bC07tcRF71DdATVTQxppeBOvybyyEH5KFhtMF17gSDfdFUxhKqQyf1sjw==",
+  "dgSpecHash": "KdxS+XjE7xQsloQGLITl70Gmt93mV6myfR5mL8/ifsAAMJZsSxWDko/EFLWwJKbUFsnxfDD1Ez+NdCiP/ha86g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\TestNetCoreConsole.csproj",
+  "projectFilePath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\MixedReality-WebRTC-playground\\TestNetCoreConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Panos\\.nuget\\packages\\microsoft.mixedreality.webrtc\\2.0.2\\microsoft.mixedreality.webrtc.2.0.2.nupkg.sha512"
   ],
