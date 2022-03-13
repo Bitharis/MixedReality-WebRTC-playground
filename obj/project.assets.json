@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.MixedReality.WebRTC/2.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.MixedReality.WebRTC.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.MixedReality.WebRTC.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win10-x64/native/mrwebrtc.dll": {
+            "assetType": "native",
+            "rid": "win10-x64"
+          },
+          "runtimes/win10-x86/native/mrwebrtc.dll": {
+            "assetType": "native",
+            "rid": "win10-x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.MixedReality.WebRTC/2.0.2": {
+      "sha512": "0InRdeWcRaGc+MkwdhaX/6vIh+Fbjdncl0AsXHjZVFKzxV6eg2zKgt6Kx5eb5ilX9OhQJ0poAG1NqvkngdCPUg==",
+      "type": "package",
+      "path": "microsoft.mixedreality.webrtc/2.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/NOTICE",
+        "lib/netstandard2.0/Microsoft.MixedReality.WebRTC.dll",
+        "lib/netstandard2.0/Microsoft.MixedReality.WebRTC.xml",
+        "microsoft.mixedreality.webrtc.2.0.2.nupkg.sha512",
+        "microsoft.mixedreality.webrtc.nuspec",
+        "runtimes/win10-x64/native/mrwebrtc.dll",
+        "runtimes/win10-x86/native/mrwebrtc.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.MixedReality.WebRTC >= 2.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Panos\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\TestNetCoreConsole.csproj",
+      "projectName": "TestNetCoreConsole",
+      "projectPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\TestNetCoreConsole.csproj",
+      "packagesPath": "C:\\Users\\Panos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Panos\\Desktop\\Learning Projects\\WebRTC\\TestNetCoreConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Panos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.MixedReality.WebRTC": {
+            "target": "Package",
+            "version": "[2.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
